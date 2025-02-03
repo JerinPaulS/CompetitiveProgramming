@@ -1,4 +1,4 @@
-package Leetcode.DailyChallenge;
+package Leetcode.DailyChallenge.YR2025;
 
 public class CountServersthatCommunicate_1267 {
 
