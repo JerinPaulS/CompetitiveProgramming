@@ -1,4 +1,4 @@
-package Leetcode.DailyChallenge.YR2025;
+package Leetcode.DailyChallenge.YR2025.Feb;
 
 public class Maximum_Ascending_Subarray_Sum_1800 {
 

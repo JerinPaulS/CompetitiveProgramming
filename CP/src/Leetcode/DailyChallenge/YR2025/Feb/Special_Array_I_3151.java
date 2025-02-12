@@ -1,4 +1,4 @@
-package Leetcode.DailyChallenge.YR2025;
+package Leetcode.DailyChallenge.YR2025.Feb;
 
 public class Special_Array_I_3151 {
 

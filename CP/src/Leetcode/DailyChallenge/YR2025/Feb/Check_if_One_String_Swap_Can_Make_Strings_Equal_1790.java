@@ -1,4 +1,4 @@
-package Leetcode.DailyChallenge.YR2025;
+package Leetcode.DailyChallenge.YR2025.Feb;
 
 public class Check_if_One_String_Swap_Can_Make_Strings_Equal_1790 {
 

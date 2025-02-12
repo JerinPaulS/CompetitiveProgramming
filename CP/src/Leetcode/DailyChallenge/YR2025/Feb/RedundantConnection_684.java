@@ -1,4 +1,4 @@
-package Leetcode.DailyChallenge.YR2025;
+package Leetcode.DailyChallenge.YR2025.Feb;
 
 public class RedundantConnection_684 {
 

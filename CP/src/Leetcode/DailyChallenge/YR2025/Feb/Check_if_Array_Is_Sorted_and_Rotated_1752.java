@@ -1,4 +1,4 @@
-package Leetcode.DailyChallenge.YR2025;
+package Leetcode.DailyChallenge.YR2025.Feb;
 
 public class Check_if_Array_Is_Sorted_and_Rotated_1752 {
 
