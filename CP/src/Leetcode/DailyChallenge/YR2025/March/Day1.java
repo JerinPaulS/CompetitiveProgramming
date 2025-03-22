@@ -1,6 +1,10 @@
 package Leetcode.DailyChallenge.YR2025.March;
 
-import java.util.TreeMap;
+/**
+ * 2460. Apply Operations to an Array
+ *
+ * 
+ */
 
 public class Apply_Operations_to_an_Array_2460 {
 
