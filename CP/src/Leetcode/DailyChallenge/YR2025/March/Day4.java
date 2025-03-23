@@ -30,7 +30,7 @@ package Leetcode.DailyChallenge.YR2025.March;
  * 1 <= n <= 107
  */
 
-public class Day3 {
+public class Day4 {
 
     public boolean checkPowersOfThree(int n) {
         return checkPower(0, n);

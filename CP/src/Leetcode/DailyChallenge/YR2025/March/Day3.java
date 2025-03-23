@@ -38,7 +38,7 @@ package Leetcode.DailyChallenge.YR2025.March;
  * pivot equals to an element of nums.
  */
 
-public class Partition_Array_According_to_Given_Pivot_2161 {
+public class Day3 {
 
     public int[] pivotArray(int[] nums, int pivot) {
         int less = 0;

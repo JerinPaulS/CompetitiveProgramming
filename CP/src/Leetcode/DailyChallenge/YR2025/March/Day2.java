@@ -44,7 +44,7 @@ package Leetcode.DailyChallenge.YR2025.March;
 
 import java.util.TreeMap;
 
-public class Merge_Two_2D_Arrays_by_Summing_Values_2570 {
+public class Day2 {
 
     public int[][] mergeArrays(int[][] nums1, int[][] nums2) {
         TreeMap<Integer, Integer> numSum = new TreeMap<>();
