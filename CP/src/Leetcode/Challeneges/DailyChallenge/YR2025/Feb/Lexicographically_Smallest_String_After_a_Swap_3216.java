@@ -1,4 +1,4 @@
-package Leetcode.Challeneges.YR2025.Feb;
+package Leetcode.Challeneges.DailyChallenge.YR2025.Feb;
 
 public class Lexicographically_Smallest_String_After_a_Swap_3216 {
 

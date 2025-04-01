@@ -1,4 +1,4 @@
-package Leetcode.Challeneges.YR2025.Feb;
+package Leetcode.Challeneges.DailyChallenge.YR2025.Feb;
 
 import java.util.Stack;
 

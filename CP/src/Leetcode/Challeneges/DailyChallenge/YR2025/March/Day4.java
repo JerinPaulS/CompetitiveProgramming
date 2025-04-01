@@ -1,4 +1,4 @@
-package Leetcode.Challeneges.YR2025.March;
+package Leetcode.Challeneges.DailyChallenge.YR2025.March;
 
 /**
  * 1780. Check if Number is a Sum of Powers of Three

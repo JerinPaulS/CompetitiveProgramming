@@ -1,4 +1,4 @@
-package Leetcode.Challeneges.YR2025.March;
+package Leetcode.Challeneges.DailyChallenge.YR2025.March;
 
 import java.util.Arrays;
 import java.util.HashMap;

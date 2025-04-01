@@ -1,4 +1,4 @@
-package Leetcode.Challeneges.YR2025.March;
+package Leetcode.Challeneges.DailyChallenge.YR2025.March;
 
 /**
  * 2460. Apply Operations to an Array

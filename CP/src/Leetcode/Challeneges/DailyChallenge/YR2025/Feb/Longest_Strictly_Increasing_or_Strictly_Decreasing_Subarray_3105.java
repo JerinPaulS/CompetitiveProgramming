@@ -1,4 +1,4 @@
-package Leetcode.Challeneges.YR2025.Feb;
+package Leetcode.Challeneges.DailyChallenge.YR2025.Feb;
 
 public class Longest_Strictly_Increasing_or_Strictly_Decreasing_Subarray_3105 {
 

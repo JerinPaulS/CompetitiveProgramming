@@ -1,4 +1,4 @@
-package Leetcode.Challeneges.YR2025.Feb;
+package Leetcode.Challeneges.DailyChallenge.YR2025.Feb;
 
 public class Find_the_Punishment_Number_of_an_Integer_2698 {
 
